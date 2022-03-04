@@ -1,7 +1,7 @@
  
 <div align="center">
   <a href="https://github.com/oldrios">
-  <img height="250em" src="https://i.ibb.co/3B9rnZQ/HELLO-pt-br.png" border="0"/></a>
+  <img height="250em" src="https://i.ibb.co/kSGk7QS/HELLO-pt-br.png" border="0"/></a>
 
 
 
