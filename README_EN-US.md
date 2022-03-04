@@ -1,20 +1,20 @@
  
 <div align="center">
   <a href="https://github.com/oldrios">
-  <img height="250em" src="https://i.ibb.co/3B9rnZQ/HELLO-pt-br.png" border="0"/></a>
+  <img height="250em" src="https://i.ibb.co/xsQwcQz/HELLO-en-us.png" border="0"/></a>
 
 
 
-<p><i>"Na função da vida, a minha mudança é uma constante e ao passar do tempo o limite da minha evolução tende ao infinito."</i></p>
+<p><i>"In the function of life, my change is a constant and over time the limit of my evolution tends to infinity."</i></p>
 </div>
 
-<b>Sobre mim:</b> 
+<b>About me:</b> 
 
-Sou um jovem apaixado pela tecnologia e acredito que os dados nos deixam mais eficientes.
+I'm a young man who's passionate about technology and I believe data makes us more efficient.
 
-- 👨‍🎓 Atualmente sou um Cientista de Dados em formação pela PUC-RS
-- ❤️ Minha paixão está em entender os dados e como eles podem nos tornar mais inteligentes
-- 💬 Me pergunte qualquer coisa, quem sabe posso ajudar?
+- 👨‍🎓 I am currently a Data Scientist in training at PUC-RS
+- ❤️ My passion is in understanding data and how it can make us smarter
+- 💬 Ask me anything, maybe I can help?
 
 
 <br>
@@ -29,7 +29,7 @@ Sou um jovem apaixado pela tecnologia e acredito que os dados nos deixam mais ef
 <br>
 <div style="display: inline_block">
 
-Linguagens e Ferramentas:
+Language and Tools:
 
 
   <img align="center" alt="Old-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
