@@ -36,7 +36,7 @@ Linguagens e Ferramentas:
   <img align="center" alt="Old-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
   <img align="center" alt="Old-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
   <img align="center" alt="Old-Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
-  <img align="right" alt="old-pic" height="150" style="border-radius:100px;" src="https://i.ibb.co/jhs7dYW/ezgif-4-2a7d318883.gif">
+  <img align="right" alt="old-pic" height="150" style="border-radius:100px;" src="https://i.ibb.co/cyctMML/download20220306162652.png">
 </div>
 
 ##
