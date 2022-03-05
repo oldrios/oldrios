@@ -44,6 +44,7 @@ Linguagens e Ferramentas:
 <div> 
   <a href="https://www.linkedin.com/in/oldaque-rios" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/oldrios" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitter.com/oldaque_" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   <a href = "mailto:oldackster@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "mailto:oldaque_neto@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-blue?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
 
