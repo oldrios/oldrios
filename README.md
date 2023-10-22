@@ -12,7 +12,7 @@
 
 Sou um jovem apaixado pela tecnologia e acredito que os dados nos deixam mais eficientes.
 
-- 👨‍🎓 Atualmente sou um Cientista de Dados em formação pela PUC-RS
+- 👨‍🎓 Atualmente sou um Cientista de Dados formado pela PUC-RS
 - ❤️ Minha paixão está em entender os dados e como eles podem nos tornar mais inteligentes
 - 💬 Me pergunte qualquer coisa, quem sabe posso ajudar?
 

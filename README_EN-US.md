@@ -12,7 +12,7 @@
 
 I'm a young man who's passionate about technology and I believe data makes us more efficient.
 
-- 👨‍🎓 I am currently a Data Scientist in training at PUC-RS
+- 👨‍🎓 I am currently a Data Scientist gratuated at PUC-RS
 - ❤️ My passion is in understanding data and how it can make us smarter
 - 💬 Ask me anything, maybe I can help?
 
